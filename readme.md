@@ -1,10 +1,7 @@
 # **INSERTION SORT** 
-<br />
 
 ## **1 - Sorting Aşamaları**
 ***
-<br />
-
 >### `[22,27,16,2,18,6]`
 <br />
 <br />
@@ -24,8 +21,6 @@
 
 ## **3- Time Complexity**
 ***
-<br />
-
 >### Best Case: En iyi senaryo aranan objenin en başta olması. `o(n)`
 >### Average Case: Verilen dizinin yarı sıralanmış bir şekilde gelmesi denebilir. `o(n^2)`
 >### Worst Case: En kötü senaryo aranan objenin en sonda olması. `o(n^2)`
@@ -38,12 +33,9 @@
 <br />
 
 ## **5-Sorting Aşamaları**
-<br />
-
+***
 >### `[7,3,5,8,2,9,4,15,6]` 
 <br />
-<br />
-
 * `[2,3,5,8,7,9,4,15,6]`
 * `[2,3,4,8,7,9,5,15,6]`
 * `[2,3,4,5,7,9,8,15,6]`
